@@ -1,2 +1,1 @@
-# SongbirdCharts
-Allows for other apps to render accessible audio charts 
+This is HackerOne Bug Bounty test , Thanks
